@@ -3,6 +3,7 @@
 
 #include <spdlog/spdlog.h>
 
+#include <boost/stl_interfaces/view_interface.hpp>
 
 #include <docopt/docopt.h>
 
